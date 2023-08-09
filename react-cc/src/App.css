@@ -1,0 +1,15 @@
+/* Add this to your CSS */
+.alert {
+  position: relative;
+  padding: 10px;
+  background-color: #cce5ff;
+  border: 1px solid #b8daff;
+  border-radius: 4px;
+}
+
+.close-button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+}
